@@ -2,19 +2,17 @@
 👋 Hi, I’m @akhljgn<br>👀 I’m interested in computer programming<br>🌱 I’m currently learning Master of Computer Applications<br>📫 How to reach me .. you know where to find me<br>😄 Pronouns: he/him<br>⚡ Fun fact: will update soon
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akhljgn&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akhljgn&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhljgn&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akhljgn&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akhljgn&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhljgn&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akhljgn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akhljgn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=akhljgn&icon=2&color=5)](https://visitcount.itsvg.in)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
